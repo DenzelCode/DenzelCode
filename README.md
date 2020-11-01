@@ -4,7 +4,7 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
-- JavaScript, TypeScript, Java & PHP all around with a heavy preference for backend development.
+- JavaScript, TypeScript, Java, PHP, and everything related with a heavy preference for backend development.
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS 😻
 
