@@ -2,6 +2,10 @@
 
 This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving problems :smile:
 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denzelcodedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-giraldo-591b831a7/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/denzelcode/)
+
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
 - JavaScript, TypeScript, Java, PHP, and everything related with a heavy preference for backend development.
