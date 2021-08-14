@@ -16,7 +16,6 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
@@ -24,7 +23,6 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
 
