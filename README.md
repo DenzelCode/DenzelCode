@@ -12,6 +12,7 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
