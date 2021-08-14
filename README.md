@@ -8,6 +8,14 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS 😻
 
+##### Technologies I use
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
 
 🌱 Currently learning:
 - Python
