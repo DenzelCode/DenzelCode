@@ -24,8 +24,8 @@ This is DenzelCode I'm from Dominican Republic 🇩🇴 and I love solving probl
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
 🌱 Currently learning:
-- Python
 - Rust
