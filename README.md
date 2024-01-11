@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 👨🏾‍💻 Founder & CEO at @ImWhileCo with a decade of experience
+
 🚀 I help you save time and generate revenue with fully-custom done-for-you software
+
 💬 Let’s chat 👇🏾
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denzelcodedev@gmail.com)
