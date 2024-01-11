@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨🏾‍💻 Founder & CEO at @ImWhileCo with a decade of experience
+👨🏾‍💻 Founder & CEO at @ImWhileCo with over a decade of experience
 
 🚀 I help you save time and generate revenue with fully-custom done-for-you software
 
