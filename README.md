@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨🏾‍💻 CEO at @ImWhileCo with a decade of experience
+👨🏾‍💻 Founder & CEO at @ImWhileCo with a decade of experience
 🚀 I help you save time and generate revenue with fully-custom done-for-you software
 💬 Let’s chat 👇🏾
 
@@ -14,7 +14,7 @@
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS
 
-##### Technologies We use
+##### Technologies we use
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
